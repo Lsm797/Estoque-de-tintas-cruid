@@ -16,5 +16,14 @@
     "tamanho": "3,6L",
     "quantidade": 25,
     "preco": 95.0
+  },
+  {
+    "id": 3,
+    "codigo": "3",
+    "nome": "FOSCO COMPLETO SUVINIL",
+    "cor": "BRANCO",
+    "tamanho": "18L",
+    "quantidade": 18,
+    "preco": 750.0
   }
 ]
