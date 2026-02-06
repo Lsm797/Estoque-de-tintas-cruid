@@ -1,0 +1,13 @@
+Tema escolhido: Controle de estoque de tintas.
+
+Descrição: sistema permite cadastrar, listar, consultar, atualizar e excluir tintas do estoque, armazenando informações como código do produto, nome, cor, tamanho, quantidade e preço.
+
+CRUD:
+
+Create: cadastro de novas tintas
+
+Read: listagem e consulta por ID
+
+Update: atualização dos dados da tinta
+
+Delete: exclusão de tintas do sistema
