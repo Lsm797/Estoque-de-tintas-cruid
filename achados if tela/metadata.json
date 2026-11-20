@@ -1,0 +1,6 @@
+{
+  "name": "Achados IF - Detalhes do Item",
+  "description": "Sistema institucional de Achados e Perdidos da Rede Federal de Educação (IF). Consulta, detalhes, custódia e reivindicação de itens.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
